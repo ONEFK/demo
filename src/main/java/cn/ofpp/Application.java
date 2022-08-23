@@ -36,6 +36,6 @@ public class Application {
 //         BoyFriend boyFriend = new BoyFriend("小范",
 //                 "四川省", "成都市", "2001-04-08", "2022-05-05", "oxeY16GUXGqxbsQu5sp1TDDMz1lQ");
 //         Wx.sendTemplateMessage(MessageFactory.resolveMessage(boyFriend));
-//     }
+    }
 
 }
